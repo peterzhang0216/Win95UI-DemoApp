@@ -1,4 +1,5 @@
-
+![License](https://img.shields.io/github/license/peterzhang0216/Win95UI-DemoApp)  
+![Stars](https://img.shields.io/github/stars/peterzhang0216/Win95UI-DemoApp?style=social)
 # 🖥️ Win95UI-DemoApp
 
 This project showcases the full functionality of the [Win95UI](https://github.com/yourname/Win95UI) SwiftUI framework with:
