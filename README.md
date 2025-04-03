@@ -22,4 +22,9 @@ This project showcases the full functionality of the [Win95UI](https://github.co
 2. Run on iPhone / iPad / macOS target
 3. Drag icons, open windows, interact freely
 
+## 🎥 Preview
+
+![preview](https://user-images.githubusercontent.com/your_id/demo.gif)
+
+
 License: MIT
